@@ -10,7 +10,7 @@
     ]
   },
   "files": [
-    "index.ts"
+    "index"
   ],
   "exclude": [
     "**/*.test.ts",
