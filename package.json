@@ -30,8 +30,8 @@
     "@nguniversal/module-map-ngfactory-loader": "^5.0.0",
     "core-js": "^2.4.1",
     "express": "^4.16.3",
-    "firebase-admin": "^5.11.0",
-    "firebase-functions": "^1.0.0",
+    "firebase-admin": "^11.7.0",
+    "firebase-functions": "^4.3.1",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^5.5.6",
     "zone.js": "^0.8.19"
